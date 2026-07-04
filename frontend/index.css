@@ -60,3 +60,6 @@ color:white;
 button{
     width:100%;
 }
+#main{
+    align-items:center;
+}
